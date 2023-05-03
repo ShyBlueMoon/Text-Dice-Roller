@@ -10,6 +10,3 @@ This is a project to demonstrate the concepts I learned on Android development f
 What this app does
 --------------
 This dice game has a button to roll the dice using a random number generator from 1 to 6. 
-
-Preview
---------------
