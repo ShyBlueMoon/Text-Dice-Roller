@@ -1,4 +1,4 @@
-Project: Lemonade App - Starter Code
+Project: Dice Roller App - Text Version
 ==================================
 
 
