@@ -1,4 +1,4 @@
-Project: Dice Roller App - Text Version
+Project: Dice Roller App - Image Version
 ==================================
 
 
